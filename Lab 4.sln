@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabControls", "LabControls.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestControlsApplication", "..\TestControlsApplication\TestControlsApplication.csproj", "{975BF596-90EB-4105-83D8-B99D66215962}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControlLibrary", "..\WpfControlLibrary\WpfControlLibrary.csproj", "{0B5F2432-090F-48EF-8AF7-95367B8D1786}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{975BF596-90EB-4105-83D8-B99D66215962}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{975BF596-90EB-4105-83D8-B99D66215962}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{975BF596-90EB-4105-83D8-B99D66215962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B5F2432-090F-48EF-8AF7-95367B8D1786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5F2432-090F-48EF-8AF7-95367B8D1786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5F2432-090F-48EF-8AF7-95367B8D1786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5F2432-090F-48EF-8AF7-95367B8D1786}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
